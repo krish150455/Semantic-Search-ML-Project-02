@@ -19,6 +19,8 @@
 #Sentence Transformer → creates embeddings
 #Cosine Similarity / Vector DB → performs vector search
 
+#sentence transformer used: https://www.sbert.net/?utm_source=chatgpt.com
+
 from sentence_transformers import SentenceTransformer
 import os
 
